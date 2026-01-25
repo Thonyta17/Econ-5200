@@ -173,7 +173,7 @@ The gap between "what the data shows" and "what the data means" is where analyti
 
 **Reproducibility:** All analysis code available with documentation. FRED API key required (free registration at https://fred.stlouisfed.org).
 
-**Contact:** Thonyta Chhay | www.linkedin.com/in/chhay-thonyta | [GitHub] | chhay.t@northeastern.edu
+**Contact:** Thonyta Chhay | www.linkedin.com/in/chhay-thonyta | https://github.com/Thonyta17) | chhay.t@northeastern.edu
 
 ---
 
