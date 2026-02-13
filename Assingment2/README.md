@@ -1,4 +1,4 @@
-# Audit 02: Deconstructing Statistical Lies
+[# Audit 02: Deconstructing Statistical Lies
 
 > **An Academic Exercise in Forensic Statistical Analysis**
 
@@ -685,3 +685,4 @@ If you use this audit framework in your research or due diligence work, please c
 **⚠️ Academic Context**: This is a student assignment using simulated data for educational purposes. All companies (NebulaCloud, IntegrityAI, FinFlash) and scenarios are fictional. The statistical methods are based on peer-reviewed literature and industry best practices.
 
 **🔍 Key Learning**: *The average hides more than it reveals. Always ask: "Whose experience am I erasing by choosing this aggregation?"*
+](https://colab.research.google.com/drive/1cXAqlQ1WA-O6KaDPa8knk-Ra555jb1F1?usp=sharing)
