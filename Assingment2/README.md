@@ -2,6 +2,11 @@
 
 > **An Academic Exercise in Forensic Statistical Analysis**
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Statistical%20Computing-green.svg)](https://numpy.org/)
+[![Assignment](https://img.shields.io/badge/Type-Academic%20Project-orange.svg)]()
+
+
 ---
 
 ## 🎯 Executive Summary
