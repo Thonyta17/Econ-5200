@@ -1,0 +1,8 @@
+wbgapi
+scikit-learn
+matplotlib
+seaborn
+umap-learn
+numpy
+pandas
+scipy

@@ -1,0 +1,7 @@
+fredapi
+statsmodels
+ruptures
+matplotlib
+plotly
+numpy
+pandas
