@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(mkdir -p \"/Users/thonyta/Library/CloudStorage/OneDrive-NortheasternUniversity/3. DA/Econ-5200/Lab20/src\")",
+      "Bash(touch \"/Users/thonyta/Library/CloudStorage/OneDrive-NortheasternUniversity/3. DA/Econ-5200/Lab20/src/__init__.py\")",
+      "Read(//Users/thonyta/Downloads/**)",
+      "Bash(cp \"/Users/thonyta/Downloads/$\\(ls -t /Users/thonyta/Downloads/)",
+      "Bash(python3 -c \"import json,sys; nb=json.load\\(sys.stdin\\); [print\\(f'=== CELL {i} id={c.get\\(\\\\\"id\\\\\",\\\\\"?\\\\\"\\)} ===\\\\n{\\\\\"\\\\\\\\n\\\\\".join\\(c[\\\\\"source\\\\\"][:5]\\)}\\\\n'\\) for i,c in enumerate\\(nb['cells']\\)]\")",
+      "Bash(mkdir -p \"/Users/thonyta/Library/CloudStorage/OneDrive-NortheasternUniversity/3. DA/Econ-5200/Lab21/notebooks\")",
+      "Bash(mkdir -p \"/Users/thonyta/Library/CloudStorage/OneDrive-NortheasternUniversity/3. DA/Econ-5200/Lab21/src\")",
+      "Bash(mkdir -p \"/Users/thonyta/Library/CloudStorage/OneDrive-NortheasternUniversity/3. DA/Econ-5200/Lab21/figures\")",
+      "Bash(touch \"/Users/thonyta/Library/CloudStorage/OneDrive-NortheasternUniversity/3. DA/Econ-5200/Lab21/src/__init__.py\")"
+    ]
+  }
+}
